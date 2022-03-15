@@ -35,3 +35,13 @@ IT technologies are developing very fast nowadays and it’s not always possible
 ### Courses:
 - Skillbox,Frontend Developer (in progress)
 - [Coderslang](https://js.coderslang.com/) (in progress)
+
+----
+
+### Code example:
+**From Kata|Codewars:** *Complete the solution so that it reverses all of the words within the string passed in.*
+```
+function reverseWords(str) {
+  return str.split(' ').reverse().join(' ')
+}
+```
