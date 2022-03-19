@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tonikchronik.github.io/rsschool-cv/
