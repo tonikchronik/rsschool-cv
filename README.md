@@ -1,2 +1,1 @@
-
-https://tonikchronik.github.io/rsschool-cv/cv
+https://tonikchronik.github.io/rsschool-cv/
